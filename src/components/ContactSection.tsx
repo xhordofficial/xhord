@@ -154,7 +154,7 @@ export default function ContactSection() {
                   <div>
                     <div className="font-semibold mb-1">Phone</div>
                     <a href="tel:+91 6282-064608" className="text-muted-foreground hover:text-foreground transition-colors">
-                      +91 6282-064608
+                      +91 7034-942438
                     </a>
                   </div>
                 </div>
@@ -167,8 +167,6 @@ export default function ContactSection() {
                     <div className="font-semibold mb-1">Location</div>
                     <p className="text-muted-foreground">
                       V 1281 , 60/44,3rd floor,JC Chambers, Panampilly nagar, Ernakulam,682036.
-
-Goods and Services Tax Identification Number: 32AAWFT9099G1ZB
                     </p>
                   </div>
                 </div>
