@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.xhord.com"
+        }
+      ],
+      "destination": "https://xhord.com/$1",
+      "permanent": true
+    }
+  ]
+}
